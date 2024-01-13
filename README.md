@@ -1,2 +1,2 @@
 Building a recipe website
-To apply HTML and CSS
+to apply HTML and CSS
